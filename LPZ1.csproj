@@ -76,7 +76,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="Отчёт\Выполнил Ерекин Эрик ПО-43 ЛПЗ1.docx" />
+    <None Include="Отчёт\Выполнил Ерекин Эрик и Капитанов Константин ПО-43 ЛПЗ1.docx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
